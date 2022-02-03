@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary3ndra&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Ary3ndra&theme=tokyonight" />
 </div>
-### bye
