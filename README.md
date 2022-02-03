@@ -31,3 +31,4 @@ My Github Analytics
 <a href="https://github.com/Ary3ndra/Ary3ndra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ary3ndra&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Martin's GitHub Stats" />
 </a>
+![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=Ary3ndra&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
