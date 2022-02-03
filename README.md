@@ -22,5 +22,5 @@ My Github Analytics
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary3ndra&theme=tokyonight" />
 </a>
 <a href="https://github.com/Ary3ndra/Ary3ndra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ary3ndra&show_icons=true&line_height=27&count_private=true&theme=tokyonight&hide=contribs,prs" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ary3ndra&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Martin's GitHub Stats" />
 </a>
