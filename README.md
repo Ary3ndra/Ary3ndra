@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary3ndra&theme=tokyonight&show_icons=true" style "max-width=100%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary3ndra&theme=tokyonight&show_icons=true" style "max-width=100%"; "position=relative" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Ary3ndra&theme=tokyonight&show_icons=true&hide=contribs,prs" alt="Aryendra's Github stats" style "max-width=100%" />
 </div>
