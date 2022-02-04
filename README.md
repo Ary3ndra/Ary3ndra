@@ -29,23 +29,12 @@ My Github Analytics
 <a href="https://github.com/Ary3ndra/Ary3ndra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary3ndra&theme=tokyonight" />
 </a>
-</p>
 
-<p>
 <a href="https://github.com/Ary3ndra/Ary3ndra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ary3ndra&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Aryendra's GitHub Stats" />
 </a>
-</p>
 
-<p>
 <a href="https://github.com/Ary3ndra/Ary3ndra">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ary3ndra&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" alt="Aryendra's GitHub Stats" />
 </a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ary3ndra&show_icons=true&locale=en&layout=compact" alt="ary3ndra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ary3ndra&show_icons=true&locale=en" alt="ary3ndra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ary3ndra&" alt="ary3ndra" /></p>
