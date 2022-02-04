@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 My Github Analytics
 </h1>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ary3ndra" alt="ary3ndra" /></a> </p>
+
 <p>
 <a href="https://github.com/Ary3ndra/Ary3ndra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary3ndra&theme=tokyonight" />
