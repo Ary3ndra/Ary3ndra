@@ -1,4 +1,6 @@
 ### Hi there 👋
+Welcome to my REPO.
+I'm Aryendra, working as a full time system Engineer.
 
 <!--
 **Ary3ndra/Ary3ndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
