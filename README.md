@@ -15,7 +15,7 @@
 </p>
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"?hideBorder&theme="material-palenight" />
 
 
 
