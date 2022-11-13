@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @Ary3ndra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi I'm Aryendra.
+I'm working as a DevOps Engineer and a wannabe Penetration tester in Cybersecurity.
 
-[![Aryendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary3ndra&show_icons=true&theme=radical)]
+<p align="center"> 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight)
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ary3ndra&layout=compact)]
+<!--[![Aryendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary3ndra&show_icons=true&theme=radical)]
+-->
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -23,12 +24,12 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight)
+</p>
 
-<!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"?hideBorder&theme="material-palenight" />
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ary3ndra&layout=compact)]
+
 
 <!---
 Ary3ndra/Ary3ndra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
