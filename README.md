@@ -1,9 +1,8 @@
 Hi I'm Aryendra.
 I'm working as a DevOps Engineer and a wannabe Penetration tester in Cybersecurity.
 
-<p align="center"> 
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight)
-</p>
 
 <!--[![Aryendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary3ndra&show_icons=true&theme=radical)]
 -->
