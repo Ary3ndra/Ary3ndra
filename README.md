@@ -15,9 +15,6 @@ I'm working as a DevOps Engineer and a wannabe Penetration tester in Cybersecuri
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 
 
-
-<img alt="bash" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/64x64_white.svg">
