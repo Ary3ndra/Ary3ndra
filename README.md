@@ -15,8 +15,10 @@
 </p>
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"?hideBorder&theme="material-palenight" />
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight)
 
+<!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"?hideBorder&theme="material-palenight" />
+-->
 
 
 
