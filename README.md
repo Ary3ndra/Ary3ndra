@@ -1,11 +1,8 @@
 Hi I'm Aryendra.
 I'm working as a DevOps Engineer and a wannabe Penetration tester in Cybersecurity.
 
-<p align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight)
-
-</p>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 
 <!--[![Aryendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary3ndra&show_icons=true&theme=radical)]
 -->
