@@ -1,5 +1,5 @@
 Hi I'm Aryendra.
-I'm working as a DevOps Engineer and a wannabe Penetration tester in Cybersecurity.
+A DevOps Engineer and an upcoming security researcher.
 
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
