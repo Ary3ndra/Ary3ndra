@@ -68,7 +68,7 @@ Modular Python tool that maps Azure estates from Resource Graph into Graphviz an
 <td width="50%" valign="top">
 
 **Finance Dashboard**
-Offline-first personal finance app. Redacts PII before any AI call, parses HDFC/SBI statements, 40+ categories, multi-provider AI summaries.
+Offline-first personal finance app. Redacts PII before any AI call, parses Bank statements, 40+ categories, multi-provider AI summaries.
 `Flask` · `React` · `Python`
 
 </td>
@@ -108,8 +108,8 @@ Real-time subtitle generation and translation for VLC. faster-whisper STT, three
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ary3ndra)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arya1999singh@gmail.com)
 [![Blog](https://img.shields.io/badge/Homelab%20Notes-00B294?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://github.com/Ary3ndra)
 
 </div>
