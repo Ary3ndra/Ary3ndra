@@ -68,7 +68,7 @@ Modular Python tool that maps Azure estates from Resource Graph into Graphviz an
 <td width="50%" valign="top">
 
 **Finance Dashboard**
-Offline-first personal finance app. Redacts PII before any AI call, parses HDFC/SBI statements, 40+ categories, multi-provider AI summaries.
+Offline-first personal finance app. Redacts PII before any AI call, parses Bank statements, 40+ categories, multi-provider AI summaries.
 `Flask` · `React` · `Python`
 
 </td>
