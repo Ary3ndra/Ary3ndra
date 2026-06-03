@@ -108,8 +108,8 @@ Real-time subtitle generation and translation for VLC. faster-whisper STT, three
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ary3ndra)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arya1999singh@gmail.com)
 [![Blog](https://img.shields.io/badge/Homelab%20Notes-00B294?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://github.com/Ary3ndra)
 
 </div>
